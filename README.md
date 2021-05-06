@@ -1,4 +1,4 @@
-# Typora 图床设置
+config.json
 > {
   "picBed": {
     "uploader": "aliyun",
