@@ -1,5 +1,5 @@
 config.json
-> {
+{
   "picBed": {
     "uploader": "aliyun",
     "aliyun": {
